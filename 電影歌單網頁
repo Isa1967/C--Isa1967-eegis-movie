@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies and Music Playlists</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Movie and Music Playlist</h1>
+    </header>
+
+    <section class="movies">
+        <h2>Favorite Movies</h2>
+        <ul>
+            <li>The Shawshank Redemption</li>
+            <li>Inception</li>
+            <li>The Godfather</li>
+            <li>Pulp Fiction</li>
+            <li>Interstellar</li>
+        </ul>
+    </section>
+
+    <section class="music">
+        <h2>Music Playlists</h2>
+        <ul>
+            <li>“Bohemian Rhapsody” - Queen</li>
+            <li>“Shape of You” - Ed Sheeran</li>
+            <li>“Blinding Lights” - The Weeknd</li>
+            <li>“Hotel California” - Eagles</li>
+            <li>“Rolling in the Deep” - Adele</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Created by [Your Name]</p>
+    </footer>
+</body>
+</html>
